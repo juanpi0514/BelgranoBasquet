@@ -1,4 +1,8 @@
 @charset "UTF-8";
+body {
+  color: skyblue;
+  background-color: #343a40; }
+
 .tamaño1 {
   width: 10%; }
 
